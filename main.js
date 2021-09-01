@@ -1,3 +1,5 @@
+//'npm run dev' to start local host
+
 import './style.css'
 
 import * as THREE from 'three';
